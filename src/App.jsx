@@ -48,10 +48,10 @@ const DEFAULT_SCHEDULE = {
     Wednesday: [
       { start: 0, span: 2, subject: 'Logic design lab[A103A]', type: 'lab' },
       { start: 3, span: 2, subject: 'Programming paradigms', type: 'theory' },
-      { start: 5, span: 1, subject: 'Probablity and stats', type: 'theory' }
+      { start: 5, span: 1, subject: 'Probablity and statistics', type: 'theory' }
     ],
     Thursday: [
-      { start: 0, span: 2, subject: 'Probablity and stats', type: 'theory' },
+      { start: 0, span: 2, subject: 'Probablity and statistics', type: 'theory' },
       { start: 3, span: 2, subject: 'Logic design', type: 'theory' },
       { start: 5, span: 1, subject: 'DSA', type: 'theory' },
       { start: 7, span: 2, subject: 'Programming paradigms lab[A103C]', type: 'lab' }
